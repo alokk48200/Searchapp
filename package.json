@@ -1,0 +1,30 @@
+{
+  "name": "searchapp",
+  "version": "1.0.0",
+  "description": "creating a serach app",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokk48200/test_project.git"
+  },
+  "author": "Alok Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokk48200/test_project/issues"
+  },
+  "homepage": "https://github.com/alokk48200/test_project#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@faker-js/faker": "^8.0.2",
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  }
+}
